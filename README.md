@@ -93,5 +93,5 @@ The moderate silhouette scores (0.22–0.26) are consistent with comparable bioa
 conure-vocalization-clustering/
 │
 ├── conure_vocalization_clustering.ipynb   # Full analysis notebook
-├── Conure_Vocalization_Report.pdf         # Project report (UCA submission)
+├── Conure_Vocalization_Report.pdf         # Project report
 └── README.md                              # This file
